@@ -66,6 +66,9 @@ td, th {
   padding-top: 60px;
   padding-bottom:95px;
 }
+.pad40i{
+  
+}
 .pd35{
   padding-top: 35px;
 }
@@ -296,7 +299,14 @@ nav .black ul{
   nav ul li {
       padding: 16px 0px;;
 }
-
+.logo{
+  margin-left:0;
+}
+.pad40i{
+  margin-top:10px;
+  padding-bottom: 10px;
+  
+}
       
       
 
