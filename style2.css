@@ -240,7 +240,7 @@ header {
       position: fixed;
       float: left;
       /*margin: 16px 46px;*/
-      margin-left: 10px;
+      margin-left: 40px;
       margin-top:16px;
       margin-bottom: 16px;
       color: #ef4526;
@@ -302,9 +302,9 @@ nav .black ul{
   nav ul li {
       padding: 16px 0px;;
 }
-/*.logo{
+.logo{
   margin-left:0;
-}*/
+}
 .pad40i{
   margin-top:10px;
   padding-bottom: 10px;
