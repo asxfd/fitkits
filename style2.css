@@ -239,8 +239,10 @@ header {
       line-height: 60px;
       position: fixed;
       float: left;
-      margin: 16px 46px;
+      /*margin: 16px 46px;*/
       margin-left: 10px;
+      margin-top:16px;
+      margin-bottom: 16px;
       color: #ef4526;
       font-weight: bold;
       font-size: 20px;
