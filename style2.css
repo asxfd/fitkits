@@ -71,6 +71,7 @@ td, th {
 }
 .pd35{
   padding-top: 35px;
+  padding-bottom: 35px;
 }
 .textwrap{
   background-color:#ef4526;
@@ -113,6 +114,9 @@ td, th {
   bottom: 0;
   right: 0;
   z-index:1;
+}
+.small_screen_pad{
+  /*padding-bottom: 30px;*/
 }
 .element1 {
   position:fixed;
@@ -309,6 +313,9 @@ nav .black ul{
   margin-top:10px;
   padding-bottom: 10px;
   
+}
+.small_screen_pad{
+  padding-bottom: 30px;
 }
       
       
